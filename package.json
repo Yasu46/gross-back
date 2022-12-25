@@ -7,7 +7,7 @@
     "node": "14.x"
   },
   "scripts": {
-    "dev": "nodemon server.js"
+    "start": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
